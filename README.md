@@ -1,11 +1,11 @@
 # Heart_Rate-SpO2
-##📘 Giới thiệu
--Dự án giúp theo dõi nhịp tim (BPM) và nồng độ oxy trong máu (SpO₂) theo thời gian thực.
--Hệ thống sử dụng:
-Cảm biến MAX30102 để đo nhịp tim và SpO₂
-Màn hình OLED SSD1306 để hiển thị thông số
-Kết nối Blynk IoT để giám sát dữ liệu qua điện thoại
-Có LED và buzzer cảnh báo khi nhịp tim vượt ngưỡng
+## 📘 Giới thiệu
+- Dự án giúp theo dõi nhịp tim (BPM) và nồng độ oxy trong máu (SpO₂) theo thời gian thực.
+- Hệ thống sử dụng:
+- Cảm biến MAX30102 để đo nhịp tim và SpO₂
+- Màn hình OLED SSD1306 để hiển thị thông số
+- Kết nối Blynk IoT để giám sát dữ liệu qua điện thoại
+- Có LED và buzzer cảnh báo khi nhịp tim vượt ngưỡng
 
 ##⚙️ Phần cứng sử dụng
 -Tên linh kiện	Mô tả / Công dụng
